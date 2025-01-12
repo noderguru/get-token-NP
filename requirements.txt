@@ -1,0 +1,6 @@
+httpx
+cloudscraper
+colorama
+capmonster-python
+twocaptcha
+anticaptchaofficial
